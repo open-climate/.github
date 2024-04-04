@@ -1,0 +1,2 @@
+# .github
+Open Climate Initiaitve
