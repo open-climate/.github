@@ -1,2 +1,2 @@
 # .github
-Open Climate Initiaitve
+Open Climate Network
